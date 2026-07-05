@@ -10,7 +10,7 @@
         <mxCell id="VZRLPhgrkKPJ0MQD4xyi-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="START" vertex="1">
           <mxGeometry height="60" width="100" x="364" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="VZRLPhgrkKPJ0MQD4xyi-3" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="VZRLPhgrkKPJ0MQD4xyi-3" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Declare a, b, c" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="180" as="geometry" />
         </mxCell>
       </root>
